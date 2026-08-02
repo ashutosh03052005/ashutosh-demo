@@ -1,4 +1,4 @@
 # ashutosh-demo
 This is my first repository.
 <br>
-Author - Ashutosh
+Author - Ashutosh pradhan
